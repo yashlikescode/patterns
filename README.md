@@ -3,7 +3,7 @@ I have a dream that, anyone in the world, who is stuck in patterns will get help
 Dear people of world, please have a look at the patterns given below and write code to print that code after taking an input from user,
 Each folder in this repository, contains codes of corresponding patterns,
 
->>Please write code to whichever language you know and make them available for learners.
+##Please write code to whichever language you know and make them available for learners.
 >>Pleaase add more patterns if you like.
 
 
