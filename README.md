@@ -2,6 +2,8 @@ I have a dream,
 I have a dream that, anyone in the world, who is stuck in patterns will get help from this repository.
 Dear people of world, please have a look at the patterns given below and write code to print that code after taking an input from user,
 Each folder in this repository, contains codes of corresponding patterns,
+id the patterns are not visible 
+use that pencil logo on top right corner to see the patterns
 
 ##Please write code to whichever language you know and make them available for learners.
 ##Pleaase add more patterns if you like.
