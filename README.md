@@ -4,7 +4,7 @@ Dear people of world, please have a look at the patterns given below and write c
 Each folder in this repository, contains codes of corresponding patterns,
 
 ##Please write code to whichever language you know and make them available for learners.
->>Pleaase add more patterns if you like.
+#Pleaase add more patterns if you like.
 
 
 Following patterns should be printed when user input is "5":
