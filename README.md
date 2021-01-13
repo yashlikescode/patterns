@@ -151,7 +151,7 @@ Q15)
  ********
 **********
 
-```c++
+```
 #include <iostream>
 
 int main(){
