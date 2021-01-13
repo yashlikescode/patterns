@@ -150,3 +150,44 @@ Q15)
   ******
  ********
 **********
+
+```c++
+#include <iostream>
+
+int main(){
+    int input = 0;
+    std::cin >> input;
+    
+    int size = input * 2;
+    char array[size];
+    
+    // finds the two mid points
+    int leftStars = (size/2)-1;
+    int rightStars = size/2;
+    
+    for(int c1=0; c1<size; c1++){
+        array[c1] = '*';
+    }
+    
+    for(int c2=0; c2<size; c2++){
+        //subtracts stars from out to in (->**<-)
+        if (c2>0 && c2<(size/2)){
+            array[c2-1] = ' ';
+            array[size-c2] = ' ';
+        }
+        //adds stars to left and right of midpoints (<-**->)
+        if (c2>(size/2) && c2<size){
+            array[leftStars-1]='*';
+            array[rightStars+1] = '*';
+            leftStars--;
+            rightStars++;
+        }
+        // prints the array for each line
+        for(int c3=0; c3<size; c3++){
+            std::cout << array[c3];
+            }
+            std::cout << std::endl;
+    }
+    return 0;
+}
+```
