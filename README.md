@@ -13,7 +13,10 @@ Pleaase add more patterns if you like.
 
 
 <h3>Following patterns should be printed when user input is "5": </h3> 
+
+
 <pre>
+
 Q1)  
    *****  
    ****  
