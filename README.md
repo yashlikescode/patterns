@@ -1,18 +1,12 @@
 <h1>Patterns</h1>
-I have a dream,  
-I have a dream that, anyone in the world, who is stuck in patterns will get help from this repository.
-Dear people of world, please have a look at the patterns given below and write code to print that code after taking an input from user,
-Each folder in this repository, contains codes of corresponding patterns,  
-
-
-If the patterns are not visible   
-use that pencil logo on top right corner to see the patterns  
-
+I have a dream. I have a dream that anyone in the world who is stuck in patterns will get help from this repository.
+Dear people of the world, please have a look at the patterns given below and write code to print that pattern after taking an input from the user.
+Each folder in this repository contains codes of corresponding patterns. If the patterns are not visible, use the pencil logo on the top right corner to see the patterns.  
+<br>
 <h3>Please write code to whichever language you know and make them available for learners.</h3>
-Pleaase add more patterns if you like.  
-
-
-<h3>Following patterns should be printed when user input is "5": </h3> 
+Please add more patterns if you like.  
+<br>
+<h3>The following patterns should be printed when the user input is "5": </h3> 
 
 
 <pre>
