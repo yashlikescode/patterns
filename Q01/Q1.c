@@ -11,6 +11,6 @@ int main(void)
         {
             printf("*");
         }
-        ptintf("\n");
+        printf("\n");
     }
 }
