@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-
 //for printing a pattern of '*' in a right angle triangle with hypotenuse towards the left
 int main (void)
 {
