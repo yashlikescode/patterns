@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-//for printing '*' in a pattern of right angle triangle with hypotenuse towards the left side 
+//for printing '*' in a pattern of inverted right angle triangle with hypotenuse towards the left side 
 int main (void)
 {
     printf("Enter Height: ");
