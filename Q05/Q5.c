@@ -17,6 +17,6 @@ int main (void)
         {
             printf("*");
         }
-        printf("\n");
+        printf("\n");//mandatory for going to the next line
     }
 }
