@@ -216,3 +216,11 @@ Q24)
  \  /
   \/
   
+## Project Maintainer 
+
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/kmryashasvi"><img alt="Profile Picture" src="https://avatars.githubusercontent.com/u/66861659?s=400&u=64fefa0d1dc0f089b0cdb61f10f3691ee24cd636&v=4" width="130px;"><br><sub><b>
+ Yash </b></sub></a><br><a href="" title="Code">💻 </a></td></a></td>
+  </tr>
+</tbody></table>
