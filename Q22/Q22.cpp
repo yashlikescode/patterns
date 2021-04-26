@@ -3,11 +3,12 @@
 using namespace std;
 
 int main()
-{
+{   int m;
+    cin>>m;
     int n=0;
-    while(n<5){
+    while(n<m){
         int j=n;
-        for(int i=0;i<5;i++){
+        for(int i=0;i<m;i++){
             cout<<j<<" ";
             j++;
         }
