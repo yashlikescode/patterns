@@ -35,16 +35,13 @@ public class Patterns {
         {  	
         	array[i] = n - (int) Math.floor(m/2) + i;     	
         }
-        
-        
+             
         
         // fill the middle index of the array
         
-        array[(int) Math.floor(m/2)] = n;
-        
+        array[(int) Math.floor(m/2)] = n;     
         counter = n;
-             
-        
+                   
         
         // fill the second half of the array, after the midpoint
         
@@ -54,13 +51,11 @@ public class Patterns {
         	
         	counter--;
         }
-       
-                
+         
         
         // print the pattern to the screen by using the bottom row of the pattern to calculate the previous rows of the pattern
         for (int i = 0; i<n; i++)
-        {
-        	
+        {        	
         	for (int j = 0; j<n; j++)
         	{
         		z = array[j] - n + i + 1; // calculates an individual number anywhere in the pattern using the bottom row of the pattern
@@ -68,14 +63,12 @@ public class Patterns {
         		if (z<1) // ensures that the smallest number printed in the pattern is 1
         		{
         			z = 1;
-        		}
-        		
+        		}        		
         		System.out.print(z); // print the number in the pattern
         		System.out.print(" ");  // add the spaces between the numbers		
         	}
         	System.out.println();
-        }
-                       
+        }                       
         scanner.close();       
     }
 }
