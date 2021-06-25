@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Patterns  {
+public class Q23  {
 
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
