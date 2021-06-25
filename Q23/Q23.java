@@ -1,8 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
-import java.util.Arrays;
 
-public class Q23  {
+public class Patterns  {
 
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
@@ -20,9 +19,9 @@ public class Q23  {
             System.out.println("Invalid number. Please try again.");
         }
 
-        int array[] = new int[n];
-        int arraycopy[] = new int[n];
+        scanner.close(); 
         
+        int array[] = new int[n];           
         double m = n;
         
      
@@ -69,6 +68,6 @@ public class Q23  {
         	}
         	System.out.println();
         }                       
-        scanner.close();       
+              
     }
 }
