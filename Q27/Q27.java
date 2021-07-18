@@ -31,7 +31,7 @@ public class Q27 {
 			}else {
 				System.out.print(y+" ");
 				}}
-			if(x!=0) System.out.println("");  //ignore empty first line
+			if(x!=0) System.out.println("");  // ignore empty first line
 			
 		}
 	}
