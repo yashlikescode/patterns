@@ -31,7 +31,11 @@ public class Q27 {
 			}else {
 				System.out.print(y+" ");
 				}}
+<<<<<<< HEAD
 			if(x!=0) System.out.println("");  // ignore empty first line
+=======
+			if(x!=0) System.out.println("");  //ignore empty first line
+>>>>>>> 1439fa18df04b9ebd27b3106ede589e05923d4cb
 			
 		}
 	}
