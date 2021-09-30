@@ -1,3 +1,4 @@
+
 function pattern(n){
     for(var i=n;i>0;--i){
         var arr=[];
