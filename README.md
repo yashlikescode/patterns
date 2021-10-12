@@ -264,7 +264,7 @@ Q32)
    @@@   
   $$$$$  
  ******* 
-*********
+*********    Note: Use random characters from "$", "*", "@", "#", "%" to print every row.
 
 </pre>
 
