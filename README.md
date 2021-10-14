@@ -6,7 +6,9 @@ Each folder in this repository contains codes of corresponding patterns. If the 
 <h3>Please write code to whichever language you know and make them available for learners.</h3>
 Please add more patterns if you like.  
 <br>
+
 The Repository now contains code of the patterns in the languages: ```C```, ```C++```, ```Python```, ```Java```, ```Matlab```, ```Ruby```
+
 <br>
 
 <h3>The following patterns should be printed when the user input is "5": </h3> 
