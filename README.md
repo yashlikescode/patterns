@@ -271,6 +271,13 @@ Q32)
  ******* 
 *********    Note: Use random characters from "$", "*", "@", "#", "%" to print every row.
 
+Q33)
+1 2 3 4 5
+10 9 8 7 6
+11 12 13 14 15
+20 19 18 17 16
+21 22 23 24 25    Note: Print first n number of rows of the pattern if the input is n.
+
 </pre>
 
 ## Project Maintainer 
