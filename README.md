@@ -1,27 +1,39 @@
-<h1>Patterns</h1>
-I have a dream. I have a dream that anyone in the world who is stuck in patterns will get help from this repository.
-Dear people of the world, please have a look at the patterns given below and write code to print that pattern after taking an input from the user.
-Each folder in this repository contains codes of corresponding patterns. If the patterns are not visible, use the pencil logo on the top right corner to see the patterns.  
+<h1 style="font-family: Helvetica, sans-serif">
+  Patterns
+</h1>
+
+<div style="font-family: Garamond, serif">
+  I have a dream. I have a dream that anyone in the world who is stuck in patterns will get help from this repository.
+  Dear people of the world, please have a look at the patterns given below and write code to print that pattern after taking an input from the user.
+  Each folder in this repository contains codes of corresponding patterns. If the patterns are not visible, use the pencil logo on the top right corner to see the patterns.
+</div>
+
 <br>
-<h3>Please write code to whichever language you know and make them available for learners.</h3>
-Please add more patterns if you like.  
+
+<h2 style="font-family: Helvetica, sans-serif">
+  Please write code to whichever language you know and make them available for learners.
+</h2>
+
+<div style="font-family: Garamond, serif">
+  Please add more patterns if you like.
+  <br>
+  The Repository now contains code of the patterns in the languages: ```C```, ```C++```, ```Python```, ```Java```, ```Matlab```, ```Ruby```
+</div>
+
 <br>
 
-The Repository now contains code of the patterns in the languages: ```C```, ```C++```, ```Python```, ```Java```, ```Matlab```, ```Ruby```
+<h2 style="font-family: Helvetica, sans-serif">
+  The following patterns should be printed when the user input is "5": 
+</h2> 
 
-<br>
-
-<h3>The following patterns should be printed when the user input is "5": </h3> 
-
-
-<pre>
+<pre style="font-family: Garamond, serif">
 
 Q1)  
-   *****  
-   ****  
-   ***  
-   **  
-   *  
+*****  
+****  
+***  
+**  
+*  
 
 
 Q2)  
@@ -291,9 +303,8 @@ e-d-c-b-a-b-c-d-e
 
 </pre>
 
-## Project Maintainer 
-
-
+## Project Maintainer
+ 
 <table>
   <tbody><tr>
     <td align="center"><a href="https://github.com/kmryashasvi"><img alt="Profile Picture" src="https://avatars.githubusercontent.com/u/66861659?s=400&u=64fefa0d1dc0f089b0cdb61f10f3691ee24cd636&v=4" width="130px;"><br><sub><b>
