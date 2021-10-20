@@ -278,6 +278,17 @@ Q33)
 20 19 18 17 16
 21 22 23 24 25    Note: Print first n number of rows of the pattern if the input is n.
 
+Q34)
+--------e--------
+------e-d-e------
+----e-d-c-d-e----
+--e-d-c-b-c-d-e--
+e-d-c-b-a-b-c-d-e
+--e-d-c-b-c-d-e--
+----e-d-c-d-e----
+------e-d-e------
+--------e--------
+
 </pre>
 
 ## Project Maintainer 
