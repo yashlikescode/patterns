@@ -393,8 +393,8 @@ Q31)
 0  
 0  1  
 0  2  4  
-0  3  6   9  
-0  4  8   12  16  
+0  3  6   9
+0  4  8   12  16
 </pre>
 </td>
 
@@ -412,7 +412,7 @@ Q32)
  ******* 
 *********
 </pre>
-Note: Use random characters from "$", "*", "@", "#", "%" to print every row.
+ <h6> Note: Use random characters from "$", "*", "@", "#", "%" to print every row. </h6>
 </td>
  
 <td>
