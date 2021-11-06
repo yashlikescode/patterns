@@ -16,13 +16,12 @@ The Repository now contains code of the patterns in the languages: ```C```, ```C
 
 <pre>
 
-Q1)  
- *****  
- ****  
- ***  
- **  
- *  
-
+Q1)                 
+ *****                     
+ ****                           
+ ***                               
+ **                                              
+ *                                   
 
 Q2)  
 *****  
