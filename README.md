@@ -2,7 +2,8 @@
 
 ```
 I have a dream. 
-I have a dream that anyone in the world who is stuck in any kind of pattern will get help from this repository.
+I have a dream that anyone in the world who is stuck in any kind of pattern 
+will get help from this repository.
 Dear people of the world, please have a look at the patterns given below 
 and write code to print that pattern after taking input from the user.
 Each folder in this repository contains codes of corresponding patterns.
