@@ -1,7 +1,13 @@
 <h1 align = "Center">Patterns</h1>
-I have a dream. I have a dream that anyone in the world who is stuck in patterns will get help from this repository.
-Dear people of the world, please have a look at the patterns given below and write code to print that pattern after taking input from the user.
-Each folder in this repository contains codes of corresponding patterns. If the patterns are not visible, use the pencil logo on the top right corner to see the patterns.  
+
+```
+I have a dream. 
+I have a dream that anyone in the world who is stuck in patterns will get help from this repository.
+Dear people of the world, please have a look at the patterns given below 
+and write code to print that pattern after taking input from the user.
+Each folder in this repository contains codes of corresponding patterns.
+```
+
 <br>
 <h3>Please write code to whichever language you know and make them available for learners.</h3>
 Please add more patterns if you like.  
