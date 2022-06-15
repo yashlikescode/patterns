@@ -18,7 +18,7 @@ public class Solution {
         // outer loop is for the number of rows while the inner is for the number of * per row
         for (int i = numberOfRows; i > 0; i--) {
             for (int j = i; j > 0; j--)
-                System.out.print(i+" ");
+                System.out.print(j+" ");
             System.out.println();
         }
         
