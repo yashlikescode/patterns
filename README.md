@@ -473,15 +473,14 @@ Q36)
 1 
 </pre>
 </td>
-
+</tr>
+ 
+<tr>
 <td>
 <pre>
- 
  ++ your pattern
-  
 </pre>
 </td>
-
 </tr>
  
 
