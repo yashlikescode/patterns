@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Q36 {
 	public static void main(String[] args) {
         var scanner = new Scanner(System.in);
         int numberOfRows;
