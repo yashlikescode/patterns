@@ -462,7 +462,9 @@ Q35)
 5 5 5 5 5 5 5 5 5
 </pre>
 </td>
-
+</tr>
+ 
+ <tr>
 <td>
 <pre>
 Q36)
@@ -473,9 +475,9 @@ Q36)
 1 
 </pre>
 </td>
-</tr>
+
  
-<tr>
+
 <td>
 <pre>
  ++ your pattern
