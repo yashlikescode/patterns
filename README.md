@@ -393,7 +393,10 @@ Q30)
 ****________****  
 </pre>
 </td>
-
+</tr>
+  </table>
+   <table>
+  <tr>
 <td>
 <pre>
 Q31)
@@ -404,11 +407,6 @@ Q31)
 0  4  8   12  16
 </pre>
 </td>
-
-</tr>
-  </table>
- <table>
- <tr>
  
 <td>
 <pre>
