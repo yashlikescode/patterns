@@ -393,7 +393,10 @@ Q30)
 ****________****  
 </pre>
 </td>
-
+</tr>
+  </table>
+   <table>
+  <tr>
 <td>
 <pre>
 Q31)
@@ -404,11 +407,6 @@ Q31)
 0  4  8   12  16
 </pre>
 </td>
-
-</tr>
-  </table>
- <table>
- <tr>
  
 <td>
 <pre>
@@ -418,8 +416,11 @@ Q32)
   $$$$$  
  ******* 
 *********
+
+Note: Use random characters 
+from "$", "*", "@", "#", "%" 
+to print every row.
 </pre>
- <h6> Note: Use random characters from "$", "*", "@", "#", "%" to print every row. </h6>
 </td>
  
 <td>
@@ -448,7 +449,13 @@ e-d-c-b-a-b-c-d-e
 </pre>
 </td>
 
-<td>
+
+</tr>
+ </table>
+ <table>
+<tr>
+ 
+ <td>
 <pre>
 Q35)
 5 5 5 5 5 5 5 5 5 
@@ -462,18 +469,18 @@ Q35)
 5 5 5 5 5 5 5 5 5
 </pre>
 </td>
-
+ 
 <td>
 <pre>
 Q36)
-5 4 3 2 1 
-4 3 2 1 
-3 2 1 
-2 1 
-1 
+5 4 3 2 1
+4 3 2 1
+3 2 1
+2 1
+1
 </pre>
 </td>
-
+ 
 <td>
 <pre>
 Q37)
@@ -487,15 +494,11 @@ Q37)
 
 <td>
 <pre>
- 
  ++ your pattern
-  
 </pre>
 </td>
-
-</tr>
  
-
+</tr>
 </table>
 
 
