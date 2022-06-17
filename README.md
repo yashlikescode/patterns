@@ -505,12 +505,7 @@ Q38)
 ******
 </pre>
 </td>
- 
-</tr>
-</table>
-<table>
-<tr>
-<td>
+ <td>
 <pre>
  ++ your pattern
 </pre>
