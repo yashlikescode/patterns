@@ -493,8 +493,19 @@ Q37)
 
 </pre>
 </td>
-  
+
 <td>
+<pre>
+Q38)
+*
+**
+* *
+*  *
+*   *
+******
+</pre>
+</td>
+ <td>
 <pre>
  ++ your pattern
 </pre>
