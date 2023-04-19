@@ -1,26 +1,55 @@
-import java.util.Scanner;
-import java.lang.*;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 
 public class Q39 {
 
-    public static void main(String[] args)  {
-        Scanner sc = new Scanner(System.in);
-        int abc;
-        //the loop used is to check if the character entered by the user is a letter or not.
-        do {
-            System.out.println("Enter a letter of the alphabet:");
-            abc = sc.next().charAt(0);
-            System.out.println("Numbers not allowed. Please try again.");
-        } while (!Character.isLetter(abc));
+    public static void main(String[] args)   {
 
-        //outer loop is for the number of rows while the inner, is for output the next letters of alphabet,  per row.
-        for (int i = 0; i <= 8; i++){
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int  i, j, space;
 
-            for (int j = 0; j <= i; j++) {
-                System.out.print( (char) (abc + j)+ " ");
+        System.out.println("Enter the number of rows: ");
+        int n = leerInt(br);
+
+        space = n - 1;
+
+        for (j = 1; j <= n; j++) {
+            for (i = 1; i <= space; i++) {
+                System.out.print(" ");
             }
+            space--;
+            for (i = 1; i <= 2 * j - 1; i++) {
+                System.out.print("@");
+            }
+            System.out.println();
+        }
 
+        space = 1;
+        for (j = 1; j <= n - 1; j++) {
+            for (i = 1; i <= space; i++) {
+                System.out.print(" ");
+            }
+            space++;
+            for (i = 1; i <= 2 * (n - j) - 1; i++) {
+                System.out.print("@");
+            }
             System.out.println();
         }
     }
+    // created method for check that the user input only numbers and avoid forced exit system.
+    public static int leerInt (BufferedReader buff){
+        int lee = 0;
+        boolean error;
+        do {
+            error = false;
+            try {
+                lee = Integer.parseInt(buff.readLine());
+            } catch (NumberFormatException ex) {
+                System.out.println("Input incorrect, repeat:?");
+                error = true;
+            } catch (Exception ex) {
+                ex.printStackTrace(System.err);
+            }
+        } while (error);
+        return lee;}
 }
